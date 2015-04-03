@@ -1,0 +1,2 @@
+#Run the following in psql
+\copy brinkhoff.b25k_modified_raw from 'C:\Users\LAYLA\Documents\UniversityWork\ResearchProjects\VLDBEvaluation\Dataset\brinkhoff\boston_b25k_complete.dat' delimiter ' ' csv header

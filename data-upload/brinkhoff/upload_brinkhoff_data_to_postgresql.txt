@@ -1,0 +1,1 @@
+\copy brinkhoff.b25k_raw from 'C:\Users\LAYLA\Documents\UniversityWork\VLDBEvaluation\Dataset\brinkhoff\oldenburg_25000ob_0eb_0o_1e_10oc_5ec_500t_50v.dat' delimiter '  ' csv header

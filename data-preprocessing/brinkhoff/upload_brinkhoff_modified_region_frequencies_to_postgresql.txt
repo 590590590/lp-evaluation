@@ -1,0 +1,2 @@
+#Run the following in psql
+\copy brinkhoff.b25k_modified_g_32_regions from 'C:\Users\LAYLA\Documents\UniversityWork\ResearchProjects\VLDBEvaluation\Dataset\brinkhoff\brinkhoff_region_frequencies_32.csv' delimiter ',' csv header
