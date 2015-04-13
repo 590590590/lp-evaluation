@@ -1,2 +1,2 @@
 #Run the following in psql
-\copy brinkhoff.b25k_modified_raw from '\home\lpourna\lp-evaluation\data\brinkhoff\boston_b25k_complete.dat' delimiter ' ' csv header
+\copy brinkhoff.b25k_modified_raw from '/home/lpourna/lp-evaluation/data/brinkhoff/boston_b25k_complete.dat' delimiter ' ' csv header
