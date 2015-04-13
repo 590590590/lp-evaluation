@@ -11,7 +11,4 @@ CREATE TABLE brinkhoff.b25k_modified_raw
   vx double precision,
   vy double precision,
   t double precision
-)
-WITH (
-  OIDS=FALSE
 );
