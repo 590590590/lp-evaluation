@@ -15,5 +15,3 @@ CREATE TABLE brinkhoff.b25k_modified_raw
 WITH (
   OIDS=FALSE
 );
-ALTER TABLE brinkhoff.b25k_modified_raw
-  OWNER TO postgres;
